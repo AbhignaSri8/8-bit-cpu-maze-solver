@@ -56,7 +56,3 @@ An 8-bit CPU designed using **Logisim Evolution** to solve an 8×8 maze using De
 ##  Key Learning
 
 Building a CPU from digital logic components and exploring how **processor architecture, memory management, and algorithmic problem-solving** work together to solve a practical problem.
-
----
-
-*Built with curiosity and a passion for digital systems and hardware design.*
