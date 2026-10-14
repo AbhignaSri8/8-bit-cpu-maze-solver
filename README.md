@@ -26,6 +26,5 @@ The CPU components and selected instructions have been tested.LED matrix visuali
 - `.circ` file: Logisim circuit design
 - `screenshots/`: Sytem Architecture
 ## Future Improvements
-- Complete and verify DFS execution
 - Implement maze visualization using an LED matrix
 - Measure execution cycles and memory accesses
