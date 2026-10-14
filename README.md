@@ -20,7 +20,7 @@ To explore how CPU components can work together to solve an 8×8 maze using Dept
 - Assembly-style machine instructions
 
 ## Project Status
-The CPU components and selected instructions have been tested. Full DFS execution and LED matrix visualization remain works in progress.
+The CPU components and selected instructions have been tested.LED matrix visualization remain works in progress.
 
 ## Files
 - `.circ` file: Logisim circuit design
